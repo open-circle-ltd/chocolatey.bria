@@ -8,7 +8,7 @@
     <title>CounterPath Bria</title>
     <authors>CounterPath</authors>
     <projectUrl>https://www.counterpath.com/bria/</projectUrl>
-    <iconUrl>https://cdn.jsdelivr.net/gh/itigoag/chocolatey.bria@master/icon/bria.png</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/open-circle-ltd/chocolatey.bria@master/icon/bria.png</iconUrl>
     <tags>bria voip</tags>
     <summary>Your Bria. Elevated. A powerful new take on the all-in-one Bria for a more immersive experience.</summary>
     <description>
