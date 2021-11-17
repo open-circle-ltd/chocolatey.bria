@@ -35,7 +35,7 @@ deploy:
     key: "{{ lookup('env','CHOCOLATEY_ITIGO_API_KEY') }}"
   - provider: github
     name: "OCC-Automation"
-    email: "chocomilk@itigo.ch"
+    email: "chocomilk@open-circle.ch"
     url: github.com/open-circle-ltd/chocolatey.bria.git
     key: "{{ lookup('env','GITHUB_API_KEY') }}"
 
