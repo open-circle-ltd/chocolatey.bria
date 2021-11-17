@@ -3,8 +3,8 @@
   <metadata>
     <id>bria</id>
     <version>5.8.1.102005</version>
-    <packageSourceUrl>https://github.com/itigoag/chocolatey.bria</packageSourceUrl>
-    <owners>ITIGO AG, sbaerlocher</owners>
+    <packageSourceUrl>https://github.com/open-circle-ltd/chocolatey.bria</packageSourceUrl>
+    <owners>Open Circle AG, sbaerlocher</owners>
     <title>CounterPath Bria</title>
     <authors>CounterPath</authors>
     <projectUrl>https://www.counterpath.com/bria/</projectUrl>
