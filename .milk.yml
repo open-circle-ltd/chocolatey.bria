@@ -26,18 +26,22 @@ readme:
 
 # deploy
 deploy:
+# not public
+#  - provider: chocolatey
+#    repository: "https://push.chocolatey.org/"
+#    key: "{{ lookup('env','CHOCOLATEY_ORG_API_KEY') }}"
   - provider: chocolatey
-    repository: 'https://nuget.itigo.tech/upload'
+    repository: "https://nuget.itigo.tech/upload"
     key: "{{ lookup('env','CHOCOLATEY_ITIGO_API_KEY') }}"
   - provider: github
-    name: 'itigo-bot'
-    email: 'chocomilk@itigo.ch'
-    url: github.com/itigoag/chocolatey.bria.git
+    name: "OCC-Automation"
+    email: "chocomilk@itigo.ch"
+    url: github.com/open-circle-ltd/chocolatey.bria.git
     key: "{{ lookup('env','GITHUB_API_KEY') }}"
 
 # Notification
 notifications:
   - provider: mattermost
-    url: 'https://matters.itigo.tech'
-    key: "{{ lookup('env','MATTTERMOST_API_KEY') }}"
-    channel: 'software-packages'
+    url: "https://chat.open-circle.ch/"
+    key: "{{ lookup('env','MATTERMOST_API_KEY') }}"
+    channel: "notification-chocolatey"
