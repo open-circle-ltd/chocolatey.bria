@@ -1,6 +1,7 @@
 # Chocolatey Package: Bria
 
-[![Build Status](https://img.shields.io/travis/itigoag/chocolatey.bria?style=flat-square)](https://travis-ci.org/itigoag/chocolatey.bria) [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square)](licence) [![Chocolatey](https://img.shields.io/chocolatey/v/bria?label=package%20version)](https://chocolatey.org/packages/bria) [![Chocolatey](https://img.shields.io/chocolatey/dt/bria?label=package%20downloads&style=flat-square)](https://chocolatey.org/packages/bria)
+![example workflow](https://github.com/open-circle-ltd/chocolatey.bria/actions/workflows/chocomilk.yml/badge.svg)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square)](licence) [![Chocolatey](https://img.shields.io/chocolatey/v/bria?label=package%20version)](https://chocolatey.org/packages/bria) [![Chocolatey](https://img.shields.io/chocolatey/dt/bria?label=package%20downloads&style=flat-square)](https://chocolatey.org/packages/bria)
 
 ## Description
 
