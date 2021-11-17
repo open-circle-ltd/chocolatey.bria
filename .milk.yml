@@ -10,7 +10,7 @@ version: "{{ register_changelog.content |
   }}"
 
 # Download URL
-url: 'https://secure.counterpath.com/Downloads/Bria_{{ version }}.exe'
+url: 'https://counterpath.s3.amazonaws.com/downloads/Bria_{{ version }}.exe'
 
 searchreplace:
   'tools/chocolateyinstall.ps1':
