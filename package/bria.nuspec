@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>bria</id>
-    <version>5.8.1.102005</version>
+    <version>5.8.5.105447</version>
     <packageSourceUrl>https://github.com/open-circle-ltd/chocolatey.bria</packageSourceUrl>
     <owners>Open Circle AG, sbaerlocher</owners>
     <title>CounterPath Bria</title>
